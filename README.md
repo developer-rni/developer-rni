@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋, my name is Nikita
+#### I'm a beginner developer
+![I'm a beginner developer](https://developer-rni.github.io/img/banner_github.png)
 
-<!--
-**developer-rni/developer-rni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Glad to see you on my page. Worked as a system administrator, tried programming and liked it :)
 
-Here are some ideas to get you started:
+Skills: Python / PHP / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on self project. 
+- 🌱 I’m currently learning sql / django / english. 
+- 📫 How to reach me: developer.rni@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/nikitanrg/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/nikita_nrg)  
+
+
