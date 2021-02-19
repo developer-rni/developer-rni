@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Nikita
 #### I'm a beginner developer
-![I'm a beginner developer](https://developer-rni.github.io/img/banner_github.png)
+![I'm a beginner developer](https://raw.githubusercontent.com/developer-rni/developer-rni/master/banner_github.png)
 
 Glad to see you on my page. Worked as a system administrator, tried programming and liked it :)
 
